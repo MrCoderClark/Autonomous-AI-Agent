@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "clerk": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "computedHash": "22a9651398c6bebe577e87ecea133d163f0d64fe7ab13b6542e8fcb47703d2f5"
+    },
+    "clerk-custom-ui": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "computedHash": "cc1b36cacfc782ed409ba1185f659b02cf942637f3f03ce0598212346845fa04"
+    },
+    "clerk-nextjs-patterns": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "computedHash": "60627db46f98625e37ebf14e2e3378712753cfc3c6baad34ae2da1652ca99b11"
+    },
+    "clerk-setup": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "computedHash": "8ccaaa7e03cb18377815a1f8ae0c5651c5d2a721bbf2d4d53994e2d919f686e4"
+    },
+    "clerk-testing": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "computedHash": "c85c9f9a6067b60b50954317a6a7fa03f052e5cb01032f988fb5e1f62876bcfb"
+    }
+  }
+}
